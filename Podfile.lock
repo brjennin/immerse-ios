@@ -1,0 +1,31 @@
+PODS:
+  - Fleet (4.1.1)
+  - Nimble (7.0.2)
+  - Quick (1.2.0)
+  - SwiftyCam (2.4.0)
+
+DEPENDENCIES:
+  - Fleet
+  - Nimble
+  - Quick
+  - SwiftyCam (from `https://github.com/brjennin/SwiftyCam.git`, commit `627ddfa6d830148cf9f2ad8253ed23a3701f890b`)
+
+EXTERNAL SOURCES:
+  SwiftyCam:
+    :commit: 627ddfa6d830148cf9f2ad8253ed23a3701f890b
+    :git: https://github.com/brjennin/SwiftyCam.git
+
+CHECKOUT OPTIONS:
+  SwiftyCam:
+    :commit: 627ddfa6d830148cf9f2ad8253ed23a3701f890b
+    :git: https://github.com/brjennin/SwiftyCam.git
+
+SPEC CHECKSUMS:
+  Fleet: a6245f2d7bca3d79b9823db450e8c3f852138a5b
+  Nimble: bfe1f814edabba69ff145cb1283e04ed636a67f2
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SwiftyCam: fc025c91fa2af41f4d969cf6ea9e7c3759b352d9
+
+PODFILE CHECKSUM: dba07591465ffdf059d80b92dc0a381d92decee4
+
+COCOAPODS: 1.3.1
